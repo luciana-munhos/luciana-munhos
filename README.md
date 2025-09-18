@@ -14,4 +14,4 @@ I am currently pursuing the MSc (M2) in Data Science, specialization in Applied 
 - Email: lucianamunhos96@gmail.com
 
 ## Portfolio
-https://lucianamunhos.github.io
+https://luciana-munhos.github.io
